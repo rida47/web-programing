@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> ASSIGMENT </title>
+</head>
+<body>
+<h1> rida zainab shaheen </h1>
+<h2> banoor khan </h2>
+<h3> 14302-8056876-8 </h3>
+<h4> 5th semester </h4>
+<h5> section E </h5>
+<h6> islam </h6>
+<hr>
+<p> my name is rida zainab. my father name is banoor khan.i am from kohat. I have completed my primary and secondary education from APS.currently i am in 5th semester and doing bscs from FUUAST islamabad. i got 3.8 gpa. </p>
+<hr>
+<img src="image.JPG" alt="girl image" width="350">
+<hr>
+<a href="https://www.youtube.com" target="-blank">YOUTUBE</a>
+<hr>
+<a href="https://images.pexels.com/photos/9802281/pexels-photo-9802281.jpeg?cs=srgb&dl=pexels-harrison-haines-9802281.jpg&fm=jpg" targer="-blank">RELATIVE URL</a>
+<hr>
+<a href="page2.html" target="-blank">ABSOLUTE URL</a>
+</body>
+</html>
